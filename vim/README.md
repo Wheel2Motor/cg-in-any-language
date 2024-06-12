@@ -4,7 +4,7 @@
 
 * Install vim8.0 or higher.
 
-* This project was written in legacy vimscript, because vim9script grammer and facilities are not mature.
+* This project was written in legacy vimscript, because vim9script grammer and facilities are not mature yet.
 
 ### Run
 
@@ -16,7 +16,7 @@
   vim main.vim -u NONE -S main.vim
   ```
 
-* In vim
+* In active vim instance
 
   Open `main.vim` and enter `:so %<CR>`, vim will produce images and then close automatically.
 
