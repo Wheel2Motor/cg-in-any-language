@@ -1,2 +1,3 @@
 # cg-in-any-language
-Computer graphics exercises in any languages
+
+Computer graphics exercises in any language
