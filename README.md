@@ -1,3 +1,6 @@
-# cg-in-any-language
+# CG in Any Language
 
-Computer graphics exercises in any language
+Computer graphics exercises in any programming language
+
+* vim
+  Vimscript(legacy) demenstration.
