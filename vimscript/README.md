@@ -4,7 +4,7 @@
 
 * Install vim8.0 or higher.
 
-* This project was written in legacy vimscript, because vim9script grammer and facilities are not mature yet.
+* This project was written in legacy vimscript.
 
 ### Run
 
